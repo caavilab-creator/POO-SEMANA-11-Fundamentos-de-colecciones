@@ -2,7 +2,7 @@
 # SISTEMA PRINCIPAL
 # Inventario App
 # ============================================
-from servicio.inventari import Inventario
+from servicio.inventario import Inventario
 
 def mostrar_menu():
     print("""
